@@ -1,0 +1,19 @@
+
+#menu {
+    background-color: greenyellow;
+    margin: 0 auto 40px auto;
+    padding: 12px 0;
+    width: 42rem;
+    text-align: center;
+}
+
+#box {
+    margin: 0 auto;
+    padding: 50px;
+    width: 30rem;
+    
+}
+
+#col{
+    margin-top: 100px;
+}
